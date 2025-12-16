@@ -41,3 +41,16 @@ SMA 20: $276.38 (Prev: $276.30)
 SMA 50: $268.05 (Prev: $267.72)
 Decision for AAPL: HOLD (No new crossover, current: Uptrend)
 ```
+
+## Technologies Used
+- Python
+- Yahoo Finance API
+- Pandas
+
+## How It Works
+1. Fetches historical stock data
+2. Calculates moving averages
+3. Generates Buy/Sell/Hold decision
+
+## Disclaimer
+This project is for educational purposes only and does not provide financial advice.
