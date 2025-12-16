@@ -32,15 +32,9 @@ Enter a ticker symbol when prompted (e.g., `AAPL`, `MSFT`, `TSLA`). Type `q` to 
 ## Example Output
 
 ```text
-Enter ticker symbol: AAPL
+## Sample Output
+![Output](output.png)
 
---- Analyzing AAPL ---
-Fetching data for AAPL...
-Current Price: $274.11
-SMA 20: $276.38 (Prev: $276.30)
-SMA 50: $268.05 (Prev: $267.72)
-Decision for AAPL: HOLD (No new crossover, current: Uptrend)
-```
 
 ## Technologies Used
 - Python
